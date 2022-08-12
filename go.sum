@@ -1,5 +1,7 @@
 github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
 github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
+github.com/pazevedobhbr/goarea v0.0.0-20220812143459-8af0f77cc495 h1:DBG+b72iTwunRxUGp909Bh+g8yovZgNABHtdvHTLFN4=
+github.com/pazevedobhbr/goarea v0.0.0-20220812143459-8af0f77cc495/go.mod h1:xkPehFvpUltHRhZz7wlCRkyJIhElheaG4aPB/v6r6f0=
 github.com/yuin/goldmark v1.4.1 h1:/vn0k+RBvwlxEmP5E7SZMqNxPhfMVFEJiykr15/0XKM=
 github.com/yuin/goldmark v1.4.1/go.mod h1:mwnBkeHKe2W/ZEtQ+71ViKU8L12m81fl3OWwC1Zlc8k=
 golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 h1:6zppjxzCulZykYSLyVDYbneBfbaBIQPYMevg0bEwv2s=
