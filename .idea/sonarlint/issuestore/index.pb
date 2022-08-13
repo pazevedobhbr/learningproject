@@ -133,3 +133,11 @@ V
 &testes/arquitetura/arquitetura_test.go,0/d/0d855d89bf57683f192456f24c472c27051b8d4c
 O
 testes/matematica/matematica.go,7/8/78c482b936fd349fbff781698bb5fd92341d0ceb
+S
+#concorrencia/generator/generator.go,5/8/580bbdc6507b8794ee780f66f6ae1f7332f5730c
+M
+concorrencia/buffer/buffer.go,5/e/5e3888d4222175c4e118d74c3ad03b096425fa3d
+6
+go.mod,c/4/c47645c391ad0571c40779079363c9d48412e18b
+6
+go.sum,5/a/5aa1ac64de2b0c4821af9393b44965020e4a521d
