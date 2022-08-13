@@ -83,8 +83,6 @@ D
 funcoes/init/init.go,e/f/eff5955d5a164f0a75c8b138e9f38c6b181b71a9
 J
 funcoes/basicas/basicas.go,9/b/9bca31114b219afe42c12f206e61e8dd617ac662
-6
-go.mod,c/4/c47645c391ad0571c40779079363c9d48412e18b
 D
 sql/insert/insert.go,1/2/120cac8185720679af071dae4f6dfacc7a83a51a
 D
@@ -135,5 +133,3 @@ V
 &testes/arquitetura/arquitetura_test.go,0/d/0d855d89bf57683f192456f24c472c27051b8d4c
 O
 testes/matematica/matematica.go,7/8/78c482b936fd349fbff781698bb5fd92341d0ceb
-6
-go.sum,5/a/5aa1ac64de2b0c4821af9393b44965020e4a521d
